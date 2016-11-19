@@ -1,0 +1,6 @@
+how to get flipkart category apis
+
+1. call https://affiliate-api.flipkart.net/affiliate/api/<your-affiliate-id>.<json or xml>
+2. u will get list of all cateogry apis
+3. now open the category id with access keys. 
+4. u will get list of all the products
